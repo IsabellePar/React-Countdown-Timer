@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Quantico:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.time-left, .time-input {
+    border: none;
+    width: 11rem;
+    height: 8rem;
+    line-height: 8rem;
+    font-family: "Quantico", sans-serif;
+    font-size: 100px;
+    text-align: center;
+    color: rgb(0, 129, 189);
+    margin: 2rem auto;
+}
+
+.time-input {
+    background-color: rgb(185, 212, 185);
+    color: rgb(34, 49, 34);
+}
+
+.time-info {
+    margin-bottom: 2rem;
+}
+
